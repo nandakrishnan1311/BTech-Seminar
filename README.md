@@ -28,7 +28,4 @@ https://ieeexplore.ieee.org/abstract/document/10431766
 ## Contributions
 Feel free to open issues or submit pull requests if you have improvements or extensions to suggest.
 
----
 
-## License
-This repository is licensed under the MIT License. See `LICENSE` for more details.
